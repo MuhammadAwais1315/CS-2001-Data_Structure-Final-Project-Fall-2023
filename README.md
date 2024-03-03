@@ -5,7 +5,7 @@ This project implements a distributed file-sharing system using the Interplaneta
 
 ### Group Members:
 - **Muhammad Awais**
-- **Muhammad Zohaib Raza**
+- **Muhammad Zohaib Raza (https://github.com/MuhammadZohaibRaza2)**
 - **Muhammad Umair Nawaz**
 
 ### Description:
